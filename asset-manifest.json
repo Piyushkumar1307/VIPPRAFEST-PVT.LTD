@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/VIPPRAFEST-PVT.LTD/static/css/main.6f304628.css",
+    "main.js": "/VIPPRAFEST-PVT.LTD/static/js/main.48408f8f.js",
+    "static/js/787.849a27ca.chunk.js": "/VIPPRAFEST-PVT.LTD/static/js/787.849a27ca.chunk.js",
+    "static/media/logo.png": "/VIPPRAFEST-PVT.LTD/static/media/logo.144600df8c06298887a1.png",
+    "index.html": "/VIPPRAFEST-PVT.LTD/index.html",
+    "main.6f304628.css.map": "/VIPPRAFEST-PVT.LTD/static/css/main.6f304628.css.map",
+    "main.48408f8f.js.map": "/VIPPRAFEST-PVT.LTD/static/js/main.48408f8f.js.map",
+    "787.849a27ca.chunk.js.map": "/VIPPRAFEST-PVT.LTD/static/js/787.849a27ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f304628.css",
+    "static/js/main.48408f8f.js"
+  ]
+}
