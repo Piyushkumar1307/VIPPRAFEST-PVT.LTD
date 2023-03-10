@@ -6,10 +6,21 @@ const Hero = () => {
     <div className="hero">
         <div className="left-h">
           <Header/>
-        </div>
-        <div className="right-h">right side</div>
+          <div className='the-best-ad '>
+            <div></div>
+            <span>We believe in your dream</span>
+          </div>
 
-    </div>
+          <div className='hero-text'>
+            <div>
+              <span className='stroke-text'>VIPPRAFEST</span>
+            <span>PVT.LTD</span>
+            </div>
+            <div><span>Hello there!</span></div>
+          </div>
+        </div>
+        <div className="right-h"></div>
+        </div>
   )
 }
 

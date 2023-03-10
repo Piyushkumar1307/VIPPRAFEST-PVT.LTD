@@ -4,14 +4,24 @@
 }
 
 .logo{
-    height: 3rem;
-    width: 8rem;
+    height: 5rem;
+    width: 14rem;
+    margin-left: 2rem;
 
 }
 
 .header-menu{
     list-style: none;
     display: flex;
-    gap: 2rem;
-    color: rgb(0, 0, 0);
+    gap: 3rem;
+    color: #dad346;
+    font-weight: 500;
+    font-size: 1.2rem;
 }
+.header-menu>li:hover{
+    cursor: pointer;
+    color: rgb(249, 249, 245);
+    cursor: pointer;
+
+}
+

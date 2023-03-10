@@ -1,14 +1,59 @@
 .hero{
     display: flex;
     justify-content: space-between;
+    background-color: rgb(40, 36, 35);
 }
 
 .left-h{
     padding: 2rem;
-    padding-top: 1rem;
-    flex: 3
+    padding-top: 1.5rem;
+    flex: 3;
+    display: flex;
+    gap: 2rem;
+    flex-direction: column;
 }
 
 .right-h{
     flex: 1
+}
+
+.the-best-ad{
+    margin-top: 3rem;
+    background-color: #dad346;
+    border-radius: 4rem;
+    width: fit-content;
+    padding: 20px 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: rgb(0, 0, 0);
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.the-best-ad>span{
+    z-index: 2;
+}
+
+.the-best-ad>div{
+    position: absolute;
+    background-color: blanchedalmond;
+    width: 5.4rem;
+    height: 80%;
+    left: 8px;
+    border-radius: 3rem;
+    z-index: 1;
+}
+
+.hero-text{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    text-transform: uppercase;
+    font-size: 4.5rem;
+    font-weight: bold;
+    color: white;
+    text-overflow: inherit;
+
 }
